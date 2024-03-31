@@ -1,4 +1,11 @@
+/**
+ * Main class to run the program
+ */
 public class Main {
+    /**
+     * Main method to run the program
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         Browser browser = new Browser();
         CLIProgram cliProgram = new CLIProgram();
